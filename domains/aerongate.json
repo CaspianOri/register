@@ -1,0 +1,1 @@
+{"description":"Personal infrastructure and email","owner":{"email":"faisal@posone.id","username":"CaspianOri"},"records":{"MX":["mx.zoho.com.","mx2.zoho.com.","mx3.zoho.com."],"TXT":"v=spf1 include:zoho.com ~all"}}
